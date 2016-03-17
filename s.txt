@@ -1,2 +1,14 @@
-Dockerfile
-s.txt
+Applications
+Desktop
+Documents
+Downloads
+Git
+HD_log.txt
+Library
+Movies
+Music
+Pictures
+Public
+WebstormProjects
+stash
+tmpNpm
