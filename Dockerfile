@@ -1,1 +1,1 @@
-FROM phusion/baseimage
+FROM busybox
