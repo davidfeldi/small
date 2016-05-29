@@ -12,8 +12,3 @@ Public
 WebstormProjects
 stash
 tmpNpm
-
-
-
-
-s
