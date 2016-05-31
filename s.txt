@@ -13,3 +13,4 @@ WebstormProjects
 stash
 tmpNpm
 sdsdsds
+sd
